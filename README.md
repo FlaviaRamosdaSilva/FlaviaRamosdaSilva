@@ -16,4 +16,4 @@ Sigam meu trabalho também no Linkedin: <br>
 
 [![Flavia stats](https://github-readme-stats.vercel.app/api?username=FlaviaRamosdaSilva)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Flávia Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaRamosdaSilva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Flávia Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaRamosdaSilva)](https://github.com/anuraghazra/github-readme-stats)
