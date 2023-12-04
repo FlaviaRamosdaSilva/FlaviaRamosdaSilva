@@ -1,6 +1,6 @@
 ### Hi there :satisfied:
 
-Sou Flávia Ramos da Silva, sou programadora Front End, aluna do DevClub e atualmente estou criando projetos com:
+Sou Flávia Ramos da Silva, sou programadora Full Stack, aluna do DevClub e atualmente estou criando projetos com:
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" height="20px">
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" height="20px">
